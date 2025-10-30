@@ -53,7 +53,7 @@ Siempre estamos en la búsqueda de **nuevas oportunidades para aprender y mejora
 En **Bug Hunters**, la **innovación**, la **creatividad** y el **trabajo en equipo** son la clave del éxito.  
 Únete a un equipo dinámico donde cada miembro tiene la oportunidad de crecer y dejar su huella en el mundo digital.
 
-📧 **Contáctanos:** [Correo: bughunters.startup@gmail.com](Correo: bughunters.startup@gmail.com)  
+📧 **Contáctanos:** [info@bughunters.dev](bughunters.startup@gmail.com)  
 🌐 **Sitio web:** [bughunters.dev](https://bughunters.dev) *(actualiza si tienes uno)*  
 🐙 **GitHub:** [github.com/Bug-Hunters](https://github.com/Bug-Hunters)
 
