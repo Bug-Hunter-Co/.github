@@ -54,7 +54,7 @@ En **Bug Hunters**, la **innovación**, la **creatividad** y el **trabajo en equ
 Únete a un equipo dinámico donde cada miembro tiene la oportunidad de crecer y dejar su huella en el mundo digital.
 
 📧 **Contáctanos:** [info@bughunters.dev](bughunters.startup@gmail.com)  
-🌐 **Sitio web:** [bughunters.dev](https://bughunters.dev) *(actualiza si tienes uno)*  
+🌐 **Sitio web:** [bughunters.dev](https://bughunters.dev) 
 🐙 **GitHub:** [github.com/Bug-Hunters](https://github.com/Bug-Hunters)
 
 ---
